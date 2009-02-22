@@ -8,7 +8,7 @@ There MUST exists many bugs or problems for this alpha edition, please don't hes
 
 = Details =
 
-0. Please keep in mind this software is not a stand-alone tool dealing with every mapping issue, it is just a wrapper of Mapserver utilities including shp2img, orginfo, gdalinfo and so on. In other word, it is a Mapfile WYSWYG editor closely relying on Mapserver's capabilities. So, before use this tool, remember install the required utilities metioned, as a suggestion, MS4W is my favorite choice. 
+0. Please keep in mind this software is not a stand-alone tool dealing with every mapping issue, it is just a wrapper of Mapserver utilities including shp2img, orginfo, gdalinfo and so on. In other word, it is a Mapfile WYSIWYG editor closely relying on Mapserver's capabilities. So, before use this tool, remember install the required utilities metioned, as a suggestion, MS4W is my favorite choice. 
 
 1. Extract the exe file from MSCompanion.zip to any folder of you computer.
 
