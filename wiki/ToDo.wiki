@@ -10,16 +10,16 @@ The 1.0 Alpha version is just a start, there are many work left to do before the
 
 ==Version 1.0==
 
-  #1 support data source type detect and CONNECTION string building (now only support shape file)
+  # support data source type detect and CONNECTION string building (now only support shape file)
 
-  #2 join: let it more smart
+  # join: let it more smart
 
-  #3 Layer: for Feature Grid and Data, need to consider the excluding relationship
+  # Layer: for Feature Grid and Data, need to consider the excluding relationship
 
-  #4 Suppoert Raster data type detect
+  # Suppoert Raster data type detect
 
-  #5 export mapfile strictly complyting to the version specified, now just distinguish <5.0 and >=5.0
+  # export mapfile strictly complyting to the version specified, now just distinguish <5.0 and >=5.0
 
-  #6 get the default version according to the specified shp2img.exe
+  # get the default version according to the specified shp2img.exe
 
  
