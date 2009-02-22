@@ -1,5 +1,5 @@
 #labels Featured,Phase-Design
-#work to do before release the version 1.0 final version 
+#work to do before the version 1.0 final version release  
 
 = Introduction =
 
