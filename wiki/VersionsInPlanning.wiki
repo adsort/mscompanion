@@ -1,0 +1,18 @@
+#labels Featured,Phase-Design
+#Version Plan for the future
+
+= Introduction =
+
+As a draft plan, MSCompanion will be featured by:
+
+
+  == Version 2.0 ==
+
+  * Thematic map authoring, including data classification, chart 
+  * Map publishing with the help of MS4W, Openlayers, with OWS(WMS/WFS/WCS) support
+
+  == Version 3.0 to 4.0 ==
+
+  * Support data operation with PostgreSQL/PostGIS
+  * Support metadata and CSW facilities
+  * Others ...
