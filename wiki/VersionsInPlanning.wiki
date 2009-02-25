@@ -5,11 +5,15 @@
 
 As a draft plan, MSCompanion will be featured by:
 
+  == Version 1.5 ==
+  * Metadata Editor
+  * Projection Editor
 
   == Version 2.0 ==
 
   * Thematic map authoring, including data classification, chart 
   * Map publishing with the help of MS4W, Openlayers, with OWS(WMS/WFS/WCS) support
+  * Symbol Editor and Symbol library management
 
   == Version 3.0 to 4.0 ==
 
