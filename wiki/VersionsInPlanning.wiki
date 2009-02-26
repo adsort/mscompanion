@@ -1,4 +1,4 @@
-#labels Featured,Phase-Design
+#labels Featured,Phase-Requirements,Phase-Design
 = Version Plan for the future =
 As a draft plan, MSCompanion will be featured by:
 
