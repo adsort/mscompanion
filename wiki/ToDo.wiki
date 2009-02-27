@@ -10,6 +10,7 @@ The 1.0 Alpha version is just a start, there are many work left to do before the
 
 ==Version 1.0==
 
+  # Mapfile line number displaying
   # support data source type detect and CONNECTION string building (now only support shape file)
   # join: let it more smart
   # Layer: for Feature Grid and Data, need to consider the excluding relationship
