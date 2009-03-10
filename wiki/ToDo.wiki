@@ -11,7 +11,7 @@ The 1.0 Alpha version is just a start, there are many work left to do before the
 ==Version 1.0==
 
   # Mapfile line number displaying (finished 2009-02-28)
-  # support data source type detect and CONNECTION string building (now support file and directory based data,2009-02-28)
+  # support data source type detect and CONNECTION string building (Finished,2009-03-11,need extensive test)
   # join: let it more smart
   # Layer: for Feature Grid and Data, need to consider the excluding relationship
   # Suppoert Raster data type detect (finished, 2009-02-28)
@@ -23,6 +23,6 @@ The 1.0 Alpha version is just a start, there are many work left to do before the
 ==Features Once Planned in version 1.5==
   # support read of mapfiles containing INCLUDEs, and write back with INCLUDE untouched(Finished 2009.2.28)
   # Metadata Editor(Finished 2009.3.9)
-  # Projection Editor(Finished 2009.3.8)
+  # Projection Editor(Finished 2009.3.8, not support form of init=EPSG:4326)
 
  
