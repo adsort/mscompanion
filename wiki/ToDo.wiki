@@ -20,6 +20,7 @@ The 1.0 Alpha version is just a start, there are many work left to do before the
   # open an existing map with custom defined image type will cause an error (Fixed 2009.2.25)
   # full support relative or obsolute path in all path related element (Finished 2009.2.25)
 
+==Features Once Planned in version 1.5==
   # support read of mapfiles containing INCLUDEs, and write back with INCLUDE untouched(Finished 2009.2.28)
   # Metadata Editor(Finished 2009.3.9)
   # Projection Editor(Finished 2009.3.8)
