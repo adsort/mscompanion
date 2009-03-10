@@ -2,10 +2,6 @@
 = Version Plan for the future =
 As a draft plan, MSCompanion will be featured by:
 
-  == Version 1.5 ==
-  * support read of mapfiles containing INCLUDEs, and write back with INCLUDE untouched
-  * Metadata Editor
-  * Projection Editor
 
   == Version 2.0 ==
   * support read and write of mapfiles containing INCLUDEs, save the specified segments of map to separate files. 
