@@ -1,0 +1,6 @@
+#summary One-sentence summary of this page.
+#labels Featured,Phase-Deploy
+
+= Screen Shot of Version 1.0 beta1 =
+
+http://groups.google.com/group/mscompanion/web/msc_s.jpg
