@@ -2,10 +2,10 @@
 #Change Log of MSCompanion between versions.
 
 = Version 1.0 bata1-2 =
-  fixed the proplem of layer information detection(2009-3-14)
+  * fixed the proplem of layer information detection(2009-3-14)
 
 = Version 1.0 bata1-1 =
-  refined the logic of layer type detection(2009-3-13)
+  * refined the logic of layer type detection(2009-3-13)
 
 = Version 1.0 bata1-0 =
 
@@ -24,4 +24,4 @@
 
 = Version 1.0 alpha =
 
-  *start
+  * start
