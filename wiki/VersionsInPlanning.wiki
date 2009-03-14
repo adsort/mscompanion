@@ -4,7 +4,7 @@ As a draft plan, MSCompanion will be featured by:
 
 
   == Version 2.0 ==
-  * support read and write of mapfiles containing INCLUDEs, save the specified segments of map to separate files. 
+  * support read and write of mapfiles containing INCLUDEs, save the specified segments of mapfile to separate files. 
   * Thematic map authoring, including data classification, chart 
   * Map publishing with the help of MS4W, Openlayers, with OWS(WMS/WFS/WCS) support
   * Symbol Editor and Symbol library management
