@@ -1,4 +1,4 @@
-#labels Phase-Support
+#labels Phase-Support,Featured
 = Beta2 of Version 1.0 is to be available =
 
 Updates since beta1 include:
