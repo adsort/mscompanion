@@ -2,7 +2,6 @@
 #Change Log of MSCompanion between versions.
 
 = Version 1.0 bata2 =
-Updates since beta1 include:
   * Add a Processing Detectives builder
   * Add a Expression builder
   * Support Chart Mapping
