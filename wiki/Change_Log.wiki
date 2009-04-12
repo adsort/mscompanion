@@ -12,6 +12,7 @@
   * Fixed the bug caused by decimal point delimiter
   * Layer title in the Layer Tree can contain space now
   * Re-arranged some of the forms of Layer to be reasonable
+  * many other improvements
 = Version 1.0 bata1-2 =
   * fixed the proplem of layer information detection(2009-3-14)
 
