@@ -7,7 +7,7 @@
   * Support Chart Mapping
   * Add forms to set elments of Map->Config
   * Add a menu item of "Zoom to layer", but only valid when SRS of the layer is the same as the Map
-  * Highlite the peer part of mapfile when click a layer/class in the contents treeview 
+  * Highlight the peer part of mapfile when click a layer/class in the contents treeview 
   * Fixed the problem of drag-and-drop on Layer Tree
   * Fixed the bug of decimal point delimiter
   * Layer title in the Layer Tree can contain space now
