@@ -1,5 +1,9 @@
 #labels ChangeLog,Featured,Phase-Support
 #Change Log of MSCompanion between versions.
+= Version 1.0 RC1 =
+  * Bug Fixed: Class legend can not show in layers tree and Style preview does not work on some version of Windows.
+  * Bug Fixed: Error caused by RichEdit on MSCompanion start.
+  * Optimized the procedure of path search on start up, add a status text box to show the search progress.
 
 = Version 1.0 bata2 =
   * Add a Processing Detectives builder
