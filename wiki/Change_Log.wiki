@@ -1,5 +1,18 @@
 #labels ChangeLog,Featured,Phase-Support
 #Change Log of MSCompanion between versions.
+
+= Version 1.0 RC2 =
+  * Enhancement: use icons to show types of layer
+  * Enhancement: add latest version check online in About menu
+  * Enhancement: in addition to space, support tab as seperator for key-value pare in MapFile
+  * Enhancement: editing map file and update it using text editor will then make the map treeview refresh.
+  * Enhancement: panning map now works to some extent
+  * Bug Fixed: "Cancel" buttons in Layer/Class... Properties Dialogs work as expect now.
+  * Bug Fixed: fixed problem of annotation type layer, you can use inline feature to difine a annotation layer.
+  * Bug Fixed: fixed a bug caused by expression
+  * Bug Fixed: some inline feature layer can not show legend
+
+
 = Version 1.0 RC1 =
   * Bug Fixed: Class legend can not show in layers tree and Style preview does not work on some version of Windows.
   * Bug Fixed: Error caused by RichEdit on MSCompanion start on some of Windows versions.
