@@ -1,5 +1,9 @@
 #labels ChangeLog,Featured,Phase-Support
 #Change Log of MSCompanion between versions.
+= Version 1.0 RC3 =
+  * Bug Fixed: use OGR to connect Postgresql data did not work correctly
+  * Bug Fixed: get rid of the boring message dialog when MSCompanion can not detect geometry type of specified data
+  * Enhancement: Optimized the logic in database connection dialog
 
 = Version 1.0 RC2 =
   * Enhancement: use icons to show types of layer
