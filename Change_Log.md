@@ -1,0 +1,59 @@
+#Change Log of MSCompanion between versions.
+# Version 1.0 RC3 #
+  * Bug Fixed: use OGR to connect Postgresql data did not work correctly
+  * Bug Fixed: get rid of the boring message dialog when MSCompanion can not detect geometry type of specified data
+  * Enhancement: Optimized the logic in database connection dialog
+
+# Version 1.0 RC2 #
+  * Enhancement: use icons to show types of layer
+  * Enhancement: add latest version check online in About menu
+  * Enhancement: in addition to space, support tab as seperator for key-value pare in MapFile
+  * Enhancement: editing map file and update it using text editor will then make the map treeview refresh.
+  * Enhancement: panning map now works to some extent
+  * Bug Fixed: "Cancel" buttons in Layer/Class... Properties Dialogs work as expect now.
+  * Bug Fixed: fixed problem of annotation type layer, you can use inline feature to difine a annotation layer.
+  * Bug Fixed: fixed a bug caused by expression
+  * Bug Fixed: some inline feature layer can not show legend
+
+
+# Version 1.0 RC1 #
+  * Bug Fixed: Class legend can not show in layers tree and Style preview does not work on some version of Windows.
+  * Bug Fixed: Error caused by RichEdit on MSCompanion start on some of Windows versions.
+  * Optimized the procedure of path search on start up, add a status text box to show the search progress.
+
+# Version 1.0 bata2 #
+  * Add a Processing Detectives builder
+  * Add a Expression builder
+  * Support Chart Mapping
+  * Add forms to set elments of Map->Config
+  * Add a menu item of "Zoom to layer", but only valid when SRS of the layer is the same as the Map
+  * Highlight the peer part of mapfile when click a layer/class in the contents treeview
+  * Fixed the problem of drag-and-drop on Layer Tree
+  * Fixed the bug caused by decimal point delimiter
+  * Layer title in the Layer Tree can contain space now
+  * Re-arranged some of the forms of Layer to be reasonable
+  * many other improvements
+# Version 1.0 bata1-2 #
+  * fixed the proplem of layer information detection(2009-3-14)
+
+# Version 1.0 bata1-1 #
+  * refined the logic of layer type detection(2009-3-13)
+
+# Version 1.0 bata1-0 #
+
+  1. Layer: for Feature Grid and Data, need to consider the excluding relationship(2009-03-11)
+  1. join: let it more smart (2009-03-11)
+  1. support data source type detect and CONNECTION string building (2009-03-11,need extensive test)
+  1. Metadata Editor(2009.3.9)
+  1. Projection Editor(2009.3.8)
+  1. Mapfile line number displaying (finished 2009-02-28)
+  1. Suppoert Raster data type detect (finished, 2009-02-28)
+  1. support read of mapfiles containing INCLUDEs, and write back with INCLUDE untouched(2009.2.28)
+  1. open an existing map with custom defined image type will cause an error (Fixed 2009.2.25)
+  1. export mapfile strictly complying to the version specified, now just distinguish <5.0 and >=5.0 (2009.2.24)
+  1. full support relative or obsolute path in all path related element (2009.2.25)
+  1. get the default version according to the specified shp2img.exe (2009.2.24)
+
+# Version 1.0 alpha #
+
+  * start

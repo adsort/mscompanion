@@ -1,0 +1,12 @@
+# Beta2 of Version 1.0 is to be available #
+
+Updates since beta1 include:
+  * Add a Processing Detectives builder
+  * Add a Expression builder
+  * Support Chart Mapping
+  * Add forms to set elments of Map->Config
+  * Add a menu item of "Zoom to layer", but only valid when SRS of the layer is the same as the Map
+  * Fixed the problem of drag-and-drop on Layer Tree
+  * Fixed the bug of decimal point delimiter
+  * Layer title in the Layer Tree can contain space now
+  * Re-arranged some of the forms of Layer to be reasonable

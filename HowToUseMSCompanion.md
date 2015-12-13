@@ -1,0 +1,18 @@
+# Introduction #
+
+MSCompanion is a tool running on Windows, and closely based on Mapserver utilities. This page tell you the basic about how to use this software. This version is campatible with the latest release of Mapserver 5.4.
+
+There MUST exists many bugs or problems for this alpha edition, please don't hesitate to write to enri.zhou@gmail.com.
+
+
+# Details #
+
+0. Please keep in mind this software is not a stand-alone tool dealing with every mapping issue, it is just a wrapper of Mapserver utilities including shp2img, orginfo, gdalinfo and so on. In other word, it is a Mapfile WYSIWYG editor closely relying on Mapserver's capabilities. So, before use this tool, remember install the required utilities metioned, as a suggestion, MS4W is my favorite choice.
+
+1. Extract the exe file from MSCompanion.zip to any folder of you computer.
+
+2. Click the file to start it
+
+3. Before you start to author a mapfile, you have to tell MSCompanion where the Mapserver Utilities located, as weel as other neccesary utilities, library files and projection related files. You can let MSCompanion guess the folder where the required files locate, but usually you need some patience before it find the right result.
+
+4. At this point, just new a file, right click the root node, and select "Layer Operations" -> "add Layer", then, I think it need not any more words.
